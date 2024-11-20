@@ -1,0 +1,24 @@
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2555171
+Academic license 2555171 - for non-commercial use only - registered to vu___@naist.ac.jp
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (mac64[arm] - Darwin 22.5.0 22F82)
+
+CPU model: Apple M1
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Academic license 2555171 - for non-commercial use only - registered to vu___@naist.ac.jp
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Model fingerprint: 0xf9715da1
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds (0.00 work units)
+Optimal objective  0.000000000e+00

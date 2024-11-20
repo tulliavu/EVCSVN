@@ -1,0 +1,399 @@
+Unit,Name,,Type,Value,x coordinate,y coordinate,Existing demand
+Quận Tân Phú,Audi Tân Bình,180,180 kW DC,2,10.817217,106.62597,72
+Quận Tân Bình,NL1,180,180 kW DC,1,10.8004852,106.6504398,36
+Quận một,Trần Khánh Dư,22,22 kW AC,1,10.7946607,106.6919107,4.4
+Quận một,Trần Khánh Dư,60,60 kW DC,2,10.7946607,106.6919107,24
+Quận 3,Êmm Sài Gòn,22,22 kW AC,1,10.7848422,106.6906867,4.4
+Quận một,Audi Hồ Chí Minh,180,180 kW DC,2,10.7808884,106.7075862,72
+Quận một,Audi Hồ Chí Minh,11,11 kW AC,2,10.7808884,106.7075862,4.4
+Quận 7,Audi City Phú Mỹ Hưng,160,160 kW DC,2,10.7277353,106.7019425,64
+Quận 7,Audi City Phú Mỹ Hưng,22,22 kW AC,1,10.7277353,106.7019425,4.4
+Huyện Bình Chánh,Bãi đỗ xe Anh Minh,11,11 Kw AC,2,10.8148999,106.528946,4.4
+Huyện Bình Chánh,Bãi đỗ xe Anh Minh,60,60 kW DC,8,10.8148999,106.528946,96
+Huyện Bình Chánh,Cửa hàng xăng dầu An Hạ,60,60 kW DC,2,10.812172,106.5181623,24
+Huyện Bình Chánh,Bãi đỗ xe tư nhân 33 Phạm Văn Sáng,11,11 Kw AC,1,10.8343526,106.5738005,2.2
+Huyện Bình Chánh,Bãi đỗ xe tư nhân 33 Phạm Văn Sáng,60,60 kW DC,4,10.8343526,106.5738005,48
+Huyện Bình Chánh,Cửa hàng xăng dầu Mỹ Anh 2,180,180 kW DC,2,10.7863305,106.5203295,72
+Huyện Bình Chánh,Cửa hàng xăng dầu Mỹ Anh 2,60,60 kW DC,4,10.7863305,106.5203295,48
+Huyện Bình Chánh,Cửa hàng xăng dầu Petrolimex Hồ Chí Minh Số 62,180,180 kW DC,2,10.7635694,106.5744858,72
+Huyện Bình Chánh,Cửa hàng xăng dầu Petrolimex Hồ Chí Minh Số 62,60,60 kW DC,2,10.7635694,106.5744858,24
+Huyện Bình Chánh,Bãi đỗ xe công ty AZC 1,11,11 Kw AC,10,10.780128,106.533268,22
+Huyện Bình Chánh,Bãi đỗ xe công ty AZC 1,60,60 kW DC,10,10.780128,106.533268,120
+Huyện Bình Chánh,Bãi đỗ xe Hoàng Nha Coffee,11,11 Kw AC,1,10.7673901,106.5587118,2.2
+Huyện Bình Chánh,Bãi đỗ xe Hoàng Nha Coffee,60,60 kW DC,2,10.7673901,106.5587118,24
+Huyện Bình Chánh,Bãi đỗ xe Cường Phát,11,11 Kw AC,6,10.7903611,106.5781993,13.2
+Huyện Bình Chánh,Bãi đỗ xe Cường Phát,60,60 kW DC,16,10.7903611,106.5781993,192
+Huyện Bình Chánh,Bãi đỗ xe 24/24 Võ Văn Vân,60,60 kW DC,4,10.776099,106.5780894,48
+Huyện Bình Chánh,Bãi đỗ xe Gara Lữ Dũng,11,11 Kw AC,4,10.7696444,106.5714087,8.8
+Huyện Bình Chánh,Bãi đỗ xe Gara Lữ Dũng,60,60 kW DC,6,10.7696444,106.5714087,72
+Huyện Bình Chánh,Bãi đỗ xe Thuận An Khang,11,11 Kw AC,2,10.6856801,106.5536093,4.4
+Huyện Bình Chánh,Bãi đỗ xe Thuận An Khang,60,60 kW DC,8,10.6856801,106.5536093,96
+Huyện Bình Chánh,Bãi đỗ xe tư nhân Hoàng Phan Thái,11,11 Kw AC,2,10.6630417,106.5672462,4.4
+Huyện Bình Chánh,Bãi đỗ xe tư nhân Hoàng Phan Thái,60,60 kW DC,4,10.6630417,106.5672462,48
+Huyện Bình Chánh,Trạm dừng nghỉ Bờ Nhà Thờ,11,11 Kw AC,2,10.6610149,106.5658124,4.4
+Huyện Bình Chánh,Trạm dừng nghỉ Bờ Nhà Thờ,60,60 kW DC,10,10.6610149,106.5658124,120
+Huyện Bình Chánh,Cửa hàng xăng dầu Tuyết Anh 2,60,60 kW DC,4,10.7137362,106.5509702,48
+Huyện Bình Chánh,Bãi đỗ xe KDC Tân Túc,11,11 Kw AC,4,10.6844901,106.5731392,8.8
+Huyện Bình Chánh,Bãi đỗ xe KDC Tân Túc,60,60 kW DC,2,10.6844901,106.5731392,24
+Huyện Bình Chánh,Gara Thành Công,11,11 Kw AC,4,10.7215579,106.6626095,8.8
+Huyện Bình Chánh,Gara Thành Công,60,60 kW DC,2,10.7215579,106.6626095,24
+Huyện Bình Chánh,Bãi đỗ xe Ngoài trời Chung cư Terra Mi-A ,60,60 kW DC,2,10.7200104,106.6703963,24
+Huyện Bình Chánh,Cửa hàng xăng dầu Petrolimex Hồ Chí Minh Số 56,150,150 kW DC,2,10.6525262,106.6548031,60
+Huyện Bình Chánh,Cửa hàng xăng dầu Petrolimex Hồ Chí Minh Số 56,60,60 kW DC,2,10.6525262,106.6548031,24
+Huyện Bình Chánh,Cửa hàng xăng dầu Hoàng Thái,60,60 kW DC,4,10.7016434,106.5931585,48
+Huyện Bình Chánh,Bãi đỗ xe tư nhân Anh Nguyện 2,11,11 kW AC,6,10.7961984,106.579215,13.2
+Huyện Bình Chánh,Bãi đỗ xe tư nhân Tân Nhựt,11,11 Kw AC,2,10.7376457,106.5479036,4.4
+Huyện Bình Chánh,Bãi đỗ xe tư nhân Tân Nhựt,80,80 kW DC,2,10.7376457,106.5479036,32
+Huyện Bình Chánh,Bãi đỗ xe tư nhân XTS 36,11,11 Kw AC,2,10.6620942,106.5673263,4.4
+Huyện Bình Chánh,Bãi đỗ xe tư nhân XTS 36,80,80 kW DC,2,10.6620942,106.5673263,32
+Huyện Cần Giờ,Cửa hàng xăng dầu Phú Thịnh,60,60 kW DC,2,10.6611169,106.7790322,24
+Huyện Cần Giờ,Cửa hàng xăng dầu Petrolimex Hồ Chí Minh Số 69,180,180 kW DC,2,10.616758,106.816033,72
+Huyện Cần Giờ,Cửa hàng xăng dầu Petrolimex Hồ Chí Minh Số 69,60,60 kW DC,2,10.616758,106.816033,24
+Huyện Cần Giờ,Cửa hàng xăng dầu Phát Tài,60,60 kW DC,4,10.5882395,106.8246445,48
+Huyện Cần Giờ,Cửa hàng xăng dầu Châu Văn Vân,60,60 kW DC,2,10.468149,106.8060388,24
+Huyện Cần Giờ,Cửa hàng xăng dầu TLP NQTM Đức Thanh,250,250 kW DC,1,10.3954143,106.9160381,50
+Huyện Cần Giờ,Cửa hàng xăng dầu TLP NQTM Đức Thanh,60,60 kW DC,4,10.3954143,106.9160381,48
+Huyện Cần Giờ,Bãi đỗ xe tư nhân Nguyễn Mạnh Hà - Cần Giờ,60,60 kW DC,4,10.4072228,106.9654233,48
+Huyện Cần Giờ,Bãi đỗ xe Nguyễn Thị Cảnh,11,11 Kw AC,8,10.4064716,106.9640273,17.6
+Huyện Cần Giờ,Bãi đỗ xe Nguyễn Thị Cảnh,60,60 kW DC,10,10.4064716,106.9640273,120
+Huyện Củ Chi,Bãi đỗ xe 54 Đặng Thị Tô,11,11 Kw AC,1,11.0272016,106.4480065,2.2
+Huyện Củ Chi,Bãi đỗ xe 54 Đặng Thị Tô,60,60 kW DC,2,11.0272016,106.4480065,24
+Huyện Củ Chi,Cửa hàng xăng dầu Tài Lộc Thinh 4,180,180 kW DC,2,10.9832451,106.4605289,72
+Huyện Củ Chi,Cửa hàng xăng dầu Tài Lộc Thinh 4,60,60 kW DC,4,10.9832451,106.4605289,48
+Huyện Củ Chi,Cửa hàng xăng dầu Tài Lộc 16,180,180 kW DC,2,10.9614506,106.5014875,72
+Huyện Củ Chi,Cửa hàng xăng dầu Tài Lộc 16,60,60 kW DC,4,10.9614506,106.5014875,48
+Huyện Củ Chi,Bãi đỗ xe Gara Ô tô Trung Kiên,60,60 kW DC,4,10.9847906,106.5205624,48
+Huyện Củ Chi,"Cửa hàng xăng dầu PVOIL Số 1, Sài Gòn",60,60 kW DC,6,10.9620685,106.5457472,72
+Huyện Củ Chi,Bãi đỗ xe Gara Thành Danh,60,60 kW DC,4,10.9586085,106.5937658,48
+Huyện Củ Chi,Bãi đỗ xe Nhà trọ Trường Thọ,11,11 Kw AC,4,11.0916362,106.5132481,8.8
+Huyện Củ Chi,Bãi đỗ xe Nhà trọ Trường Thọ,60,60 kW DC,2,11.0916362,106.5132481,24
+Huyện Hóc Môn,Cửa hàng xăng dầu Tài Lộc Thinh 5,180,180 kW DC,2,10.8790427,106.5525145,72
+Huyện Hóc Môn,Bãi đỗ xe Chú Minh,60,60 kW DC,4,10.8919577,106.5714148,48
+Huyện Hóc Môn,Bãi đỗ xe Trần Anh,11,11 Kw AC,4,10.9084099,106.5912473,8.8
+Huyện Hóc Môn,Bãi đỗ xe Trần Anh,60,60 kW DC,6,10.9084099,106.5912473,72
+Huyện Hóc Môn,Bãi đỗ xe 15 Huỳnh Thị Mài,11,11 Kw AC,1,10.9145321,106.5864128,2.2
+Huyện Hóc Môn,Bãi đỗ xe 15 Huỳnh Thị Mài,60,60 kW DC,4,10.9145321,106.5864128,48
+Huyện Hóc Môn,Bãi đỗ xe Trần Anh 3,60,60 kW DC,4,10.9126641,106.5942896,48
+Huyện Hóc Môn,Bãi đỗ xe Đô Rê Mon,11,11 Kw AC,3,10.9036051,106.5898017,6.6
+Huyện Hóc Môn,Bãi đỗ xe Đô Rê Mon,60,60 kW DC,2,10.9036051,106.5898017,24
+Huyện Hóc Môn,Bãi đỗ xe tư nhân 108 Đường Song Hành,11,11 Kw AC,1,10.9001015,106.5892651,2.2
+Huyện Hóc Môn,Bãi đỗ xe tư nhân 108 Đường Song Hành,60,60 kW DC,4,10.9001015,106.5892651,48
+Huyện Hóc Môn,Bãi đỗ xe Tân Thới Nhì 2,11,11 Kw AC,5,10.8904817,106.5841934,11
+Huyện Hóc Môn,Bãi đỗ xe Tân Thới Nhì 2,60,60 kW DC,12,10.8904817,106.5841934,144
+Huyện Hóc Môn,Bãi đỗ xe Tân Hiệp 18A,11,11 Kw AC,2,10.8943977,106.5916422,4.4
+Huyện Hóc Môn,Bãi đỗ xe Tân Hiệp 18A,60,60 kW DC,4,10.8943977,106.5916422,48
+Huyện Hóc Môn,Bãi đỗ xe tư nhân - 36/7A Ấp Trung Đông 2,11,11 Kw AC,3,10.9002525,106.609922,6.6
+Huyện Hóc Môn,Bãi đỗ xe tư nhân - 36/7A Ấp Trung Đông 2,60,60 kW DC,6,10.9002525,106.609922,72
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Tuyết Mai,11,11 Kw AC,2,10.8651795,106.5699693,4.4
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Tuyết Mai,60,60 kW DC,8,10.8651795,106.5699693,96
+Huyện Hóc Môn,Bãi đỗ xe Nguyễn Văn Bứa,11,11 Kw AC,8,10.8704625,106.5438832,17.6
+Huyện Hóc Môn,Bãi đỗ xe Nguyễn Văn Bứa,60,60 kW DC,16,10.8704625,106.5438832,192
+Huyện Hóc Môn,Bãi đỗ xe Năm Phát II,11,11 Kw AC,1,10.8695941,106.579862,2.2
+Huyện Hóc Môn,Bãi đỗ xe Năm Phát II,60,60 kW DC,6,10.8695941,106.579862,72
+Huyện Hóc Môn,Bãi đỗ xe 41/1 Xuân Thới Thượng,60,60 kW DC,4,10.8472666,106.5933071,48
+Huyện Hóc Môn,Bãi đỗ xe Gara Trung Chánh,11,11 Kw AC,1,10.8789635,106.5957186,2.2
+Huyện Hóc Môn,Bãi đỗ xe Gara Trung Chánh,60,60 kW DC,2,10.8789635,106.5957186,24
+Huyện Hóc Môn,Bãi đỗ xe Anh Quốc,11,11 Kw AC,1,10.8705916,106.6080083,2.2
+Huyện Hóc Môn,Bãi đỗ xe Anh Quốc,30,30 kW DC,1,10.8705916,106.6080083,6
+Huyện Hóc Môn,Bãi đỗ xe Phong Khanh,11,11 Kw AC,4,10.8704685,106.607919,8.8
+Huyện Hóc Môn,Bãi đỗ xe Phong Khanh,60,60 kW DC,6,10.8704685,106.607919,72
+Huyện Hóc Môn,Bãi đỗ xe Phương Trang,11,11 Kw AC,7,10.8865359,106.6040918,15.4
+Huyện Hóc Môn,Bãi đỗ xe Phương Trang,60,60 kW DC,10,10.8865359,106.6040918,120
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Phạm Thành Việt,11,11 Kw AC,2,10.8976059,106.6114474,4.4
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Phạm Thành Việt,60,60 kW DC,6,10.8976059,106.6114474,72
+Huyện Hóc Môn,Bãi đỗ xe LUX 99,11,11 Kw AC,2,10.8833373,106.6188496,4.4
+Huyện Hóc Môn,Bãi đỗ xe LUX 99,60,60 kW DC,6,10.8833373,106.6188496,72
+Huyện Hóc Môn,Bãi đỗ xe Đông Nam,11,11 Kw AC,2,10.8656817,106.6022265,4.4
+Huyện Hóc Môn,Bãi đỗ xe Đông Nam,30,30 kW DC,2,10.8656817,106.6022265,12
+Huyện Hóc Môn,Bãi đỗ xe Nguyễn Ảnh Thủ,11,11 Kw AC,2,10.856544,106.6143944,4.4
+Huyện Hóc Môn,Bãi đỗ xe Nguyễn Ảnh Thủ,60,60 kW DC,4,10.856544,106.6143944,48
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Chú Tám,11,11 Kw AC,1,10.8411638,106.5967126,2.2
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Chú Tám,60,60 kW DC,2,10.8411638,106.5967126,24
+Huyện Hóc Môn,Bãi đỗ xe YOGA Ngọc Nguyên,11,11 Kw AC,4,10.907326,106.6267102,8.8
+Huyện Hóc Môn,Bãi đỗ xe YOGA Ngọc Nguyên,60,60 kW DC,2,10.907326,106.6267102,24
+Huyện Hóc Môn,Bãi đỗ xe 380 Huỳnh Thị Na,11,11 Kw AC,5,10.8970675,106.6292274,11
+Huyện Hóc Môn,Bãi đỗ xe 380 Huỳnh Thị Na,60,60 kW DC,4,10.8970675,106.6292274,48
+Huyện Hóc Môn,Bãi đỗ xe Thuỳ Trâm,11,11 Kw AC,5,10.8997608,106.64548,11
+Huyện Hóc Môn,Bãi đỗ xe Nhị Bình 04 - Số 330/05/04 Ấp 1,11,11 Kw AC,2,10.9108446,106.6624051,4.4
+Huyện Hóc Môn,Bãi đỗ xe Nhị Bình 04 - Số 330/05/04 Ấp 1,60,60 kW DC,6,10.9108446,106.6624051,72
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Nhị Bình 08,11,11 Kw AC,4,10.9145295,106.6727274,8.8
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Nhị Bình 08,60,60 kW DC,6,10.9145295,106.6727274,72
+Huyện Hóc Môn,Bãi đỗ xe Nhị Bình 15 - Số 319 Nhị Bình,11,11 Kw AC,2,10.9041726,106.6720359,4.4
+Huyện Hóc Môn,Bãi đỗ xe Nhị Bình 15 - Số 319 Nhị Bình,60,60 kW DC,4,10.9041726,106.6720359,48
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Cường Thảo II,11,11 Kw AC,6,10.9041727,106.672036,13.2
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Cường Thảo II,60,60 kW DC,12,10.9041727,106.672036,144
+Huyện Hóc Môn,Bãi đỗ xe Cà Phê Gia Long,11,11 Kw AC,4,10.9064097,106.688944,8.8
+Huyện Hóc Môn,Bãi đỗ xe Cà Phê Gia Long,60,60 kW DC,6,10.9064097,106.688944,72
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Chị Diễm 2,11,11 Kw AC,4,10.9109363,106.6510346,8.8
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Chị Diễm 2,60,60 kW DC,8,10.9109363,106.6510346,96
+Huyện Hóc Môn,Bãi đỗ xe Bùi Công Trừng,11,11 Kw AC,4,10.913259,106.673344,8.8
+Huyện Hóc Môn,Bãi đỗ xe Bùi Công Trừng,80,80 kW DC,6,10.913259,106.673344,96
+Huyện Hóc Môn,Bãi đỗ xe tư nhân Bà Điểm,80,60 kW DC,4,10.8411638,106.5967126,64
+Huyện Nhà Bè,Bãi đỗ xe Trường Tín,80,11 Kw AC,1,10.6337632,106.735316,16
+Huyện Nhà Bè,Bãi đỗ xe Trường Tín,80,60 kW DC,4,10.6337632,106.735316,64
+Huyện Nhà Bè,Bãi đỗ xe tư nhân Anh Bình,80,60 kW DC,2,10.6515117,106.7293611,32
+Huyện Nhà Bè,Cửa hàng xăng dầu Mipec Anh Huy,60,60 kW DC,4,10.6505836,106.7295491,48
+Huyện Nhà Bè,Bãi đỗ xe tư nhân Chị Diễm 4,11,11 Kw AC,5,10.6571742,106.6887408,11
+Huyện Nhà Bè,Bãi đỗ xe tư nhân Chị Diễm 4,60,60 kW DC,2,10.6571742,106.6887408,24
+Huyện Nhà Bè,Cửa hàng xăng dầu Thuận Khải,60,60 kW DC,4,10.6731696,106.6979514,48
+Huyện Nhà Bè,Bãi đỗ xe tư nhân Lê Văn Lương,11,11 Kw AC,9,10.6751953,106.6939803,19.8
+Huyện Nhà Bè,Bãi đỗ xe tư nhân Lê Văn Lương,60,60 kW DC,16,10.6751953,106.6939803,192
+Huyện Nhà Bè,Gara Anh Mạnh,11,11 Kw AC,1,10.6786262,106.7359893,2.2
+Huyện Nhà Bè,Gara Anh Mạnh,60,60 kW DC,2,10.6786262,106.7359893,24
+Huyện Nhà Bè,Bãi đỗ xe Thanh Phong Auto Nhà Bè,11,11 Kw AC,2,10.6998008,106.7040864,4.4
+Huyện Nhà Bè,Bãi đỗ xe Thanh Phong Auto Nhà Bè,30,30 kW DC,2,10.6998008,106.7040864,12
+Huyện Nhà Bè,Chung cư HAGL Gold House A,11,11 Kw AC,3,10.7108769,106.7032967,6.6
+Huyện Nhà Bè,Chung cư HAGL Gold House B,11,11 Kw AC,3,10.7108769,106.7032967,6.6
+Huyện Nhà Bè,Bãi đỗ xe Cafe Bích Ngọc,11,11 Kw AC,1,10.6748507,106.7500025,2.2
+Huyện Nhà Bè,Bãi đỗ xe Cafe Bích Ngọc,80,80 kW DC,2,10.6748507,106.7500025,32
+Huyện Nhà Bè,Bãi đỗ xe tư nhân Phạm Hữu Lầu,11,11 Kw AC,1,10.7011897,106.719752,2.2
+Huyện Nhà Bè,Bãi đỗ xe tư nhân Phạm Hữu Lầu,60,60 kW DC,6,10.7011897,106.719752,72
+Quận một,Bãi đỗ xe Công ty SAFi,60,60 kW DC,2,10.7868147,106.6961415,24
+Quận một,Tòa nhà SFC,11,11 Kw AC,1,10.7877159,106.699993,2.2
+Quận một,Tòa nhà SFC,60,60 kW DC,2,10.7877159,106.699993,24
+Quận một,"Vincom Center Đồng Khởi, Hầm B6",11,11 Kw AC,2,10.7779716,106.7016504,4.4
+Quận một,"Vincom Center Đồng Khởi, Hầm B6",80,80 kW DC,2,10.7779716,106.7016504,32
+Quận một,"Vincom Center Đồng Khởi, Hầm B6",60,60 kW DC,24,10.7779716,106.7016504,288
+Quận một,"Vincom Center Đồng Khởi, Hầm B6",30,30 kW DC,9,10.7779716,106.7016504,54
+Quận một,Vincom Center Đồng Khởi - Hầm B5,11,11 Kw AC,4,10.7780283,106.7019909,8.8
+Quận một,Vincom Center Đồng Khởi - Hầm B5,60,60 kW DC,4,10.7780283,106.7019909,48
+Quận một,Vincom Center Đồng Khởi - Hầm B5,30,30 kW DC,2,10.7780283,106.7019909,12
+Quận một,Chung cư Vinhomes Golden River 1,11,11 Kw AC,3,10.7849515,106.709737,6.6
+Quận 12,Bãi đỗ xe Tâm Phúc,11,11 Kw AC,4,10.8738856,106.6219931,8.8
+Quận 12,Bãi đỗ xe Tâm Phúc,60,60 kW DC,2,10.8738856,106.6219931,24
+Quận 12,Bãi đỗ xe tư nhân Thùy Trang,11,11 Kw AC,1,10.889003,106.593253,2.2
+Quận 12,Bãi đỗ xe tư nhân Thùy Trang,60,60 kW DC,2,10.889003,106.593253,24
+Quận 12,Bãi đỗ xe Tân Thới Hiệp,11,11 Kw AC,4,10.8603672,106.6438673,8.8
+Quận 12,Bãi đỗ xe Tân Thới Hiệp,60,60 kW DC,6,10.8603672,106.6438673,72
+Quận 12,Bãi đỗ xe S778 Nguyễn Văn Quá,11,11 Kw AC,1,10.8461024,106.6335723,2.2
+Quận 12,Bãi đỗ xe S778 Nguyễn Văn Quá,30,30 kW DC,1,10.8461024,106.6335723,6
+Quận 12,Bãi đỗ xe Diệu Phát,11,11 Kw AC,2,10.8907028,106.6472383,4.4
+Quận 12,Bãi đỗ xe Diệu Phát,60,60 kW DC,2,10.8907028,106.6472383,24
+Quận 12,Bãi đỗ xe Chung cư Hiệp Thành,11,11 Kw AC,2,10.88007,106.6476469,4.4
+Quận 12,Bãi đỗ xe Chung cư Hiệp Thành,60,60 kW DC,4,10.88007,106.6476469,48
+Quận 12,Bãi đỗ xe Minh Phúc,11,11 Kw AC,3,10.8919051,106.6868612,6.6
+Quận 12,Bãi đỗ xe Minh Phúc,60,60 kW DC,2,10.8919051,106.6868612,24
+Quận 12,Bãi đỗ xe 24E – Thạnh Xuân,11,11 Kw AC,5,10.8644608,106.6741991,11
+Quận 12,Bãi đỗ xe 24E – Thạnh Xuân,60,60 kW DC,2,10.8644608,106.6741991,24
+Quận 12,Bãi đỗ xe tư nhân Anh Nam 2,60,60 kW DC,4,10.8812315,106.6827168,48
+Quận 12,Bãi đỗ xe Bờm Auto,11,11 Kw AC,3,10.8660938,106.6717738,6.6
+Quận 12,Bãi đỗ xe Bờm Auto,60,60 kW DC,2,10.8660938,106.6717738,24
+Quận 12,Bãi đỗ xe tư nhân Tô Ngọc Vân,60,60 kW DC,4,10.8595145,106.6679555,48
+Quận 12,Bãi đỗ xe 437 Hà Huy Giáp,11,11 Kw AC,4,10.8700843,106.677007,8.8
+Quận 12,Bãi đỗ xe 437 Hà Huy Giáp,60,60 kW DC,6,10.8700843,106.677007,72
+Quận 12,Bãi đỗ xe DBK,11,11 Kw AC,3,10.8604904,106.6811463,6.6
+Quận 12,Bãi đỗ xe DBK,60,60 kW DC,2,10.8604904,106.6811463,24
+Quận 12,Bãi đỗ xe tư nhân Số 08,11,11 Kw AC,4,10.870554,106.6850482,8.8
+Quận 12,Bãi đỗ xe tư nhân Số 08,60,60 kW DC,2,10.870554,106.6850482,24
+Quận 12,Bãi đỗ xe An Phú Đông,11,11 Kw AC,4,10.8564607,106.6862923,8.8
+Quận 12,Bãi đỗ xe An Phú Đông,60,60 kW DC,2,10.8564607,106.6862923,24
+Quận 12,Bãi đỗ xe Auto Phúc Nguyên,11,11 Kw AC,2,10.8559367,106.6858039,4.4
+Quận 12,Bãi đỗ xe Auto Phúc Nguyên,60,60 kW DC,2,10.8559367,106.6858039,24
+Quận 12,Bãi đỗ xe tư nhân Ân An,11,11 Kw AC,2,10.8571184,106.6871335,4.4
+Quận 12,Bãi đỗ xe tư nhân Ân An,60,60 kW DC,2,10.8571184,106.6871335,24
+Quận 12,Bãi đỗ xe Thu Hiền,11,11 Kw AC,2,10.8537599,106.6910594,4.4
+Quận 12,Bãi đỗ xe Thu Hiền,60,60 kW DC,2,10.8537599,106.6910594,24
+Quận 12,Bãi đỗ xe Anh Sơn 6,11,11 Kw AC,2,10.8406288,106.6948671,4.4
+Quận 12,Bãi đỗ xe Anh Sơn 6,60,60 kW DC,2,10.8406288,106.6948671,24
+Quận 12,Bãi đỗ xe 24H - 331 Vườn Lài,60,60 kW DC,4,10.8488874,106.6957329,48
+Quận 12,Bãi đỗ xe FamilyCar,60,60 kW DC,2,10.8507655,106.693186,24
+Quận 3,Bãi đỗ xe La Vela Saigon Hotel,150,150 kW DC,2,10.7886708,106.6854708,60
+Quận 3,Chung cư Léman Luxury,11,11 Kw AC,3,10.7778617,106.6899343,6.6
+Quận 5,Trung tâm Hội nghị The Adora Grand View,60,60 kW DC,4,10.7579848,106.6679385,48
+Quận 6,Chung cư Summer Square,11,11 Kw AC,3,10.7593879,106.6259582,6.6
+Quận 6,Bãi đỗ xe Huỳnh Hiếu Thiện,11,11 Kw AC,3,10.7336831,106.63275,6.6
+Quận 6,Bãi đỗ xe Huỳnh Hiếu Thiện,60,60 kW DC,2,10.7336831,106.63275,24
+Quận 7,Chung cư Eco Green HR1,11,11 Kw AC,3,10.7495216,106.7235012,6.6
+Quận 7,Chung cư Eco Green HR2,11,11 Kw AC,3,10.7495216,106.7235012,6.6
+Quận 7,"Đại lý Ô tô VinFast, Chevrolet Phú Mỹ Hưng 2",30,30 kW DC,2,10.7383681,106.7162217,12
+Quận 7,Trung tâm Hội nghị The Adora Premium,60,60 kW DC,4,10.7300123,106.7198243,48
+Quận 7,Chung cư Golden King,11,11 Kw AC,2,10.7259945,106.7240041,4.4
+Quận 7,Chung cư Green View,11,11 Kw AC,3,10.7240045,106.7246632,6.6
+Quận 7,Bãi đỗ xe Cty TyreZone,11,11 Kw AC,6,10.7137525,106.7415909,13.2
+Quận 7,Bãi đỗ xe Cty TyreZone,60,60 kW DC,8,10.7137525,106.7415909,96
+Quận 7,Vincom+ Nam Long,120,120 kW DC,4,10.7440185,106.7326323,96
+Quận 7,Vincom+ Nam Long,250,250 kW DC,2,10.7440185,106.7326323,100
+Quận 7,Bãi đỗ xe tư nhân Phú Nhuận,11,11 Kw AC,1,10.7301262,106.7379914,2.2
+Quận 7,Bãi đỗ xe tư nhân Phú Nhuận,60,60 kW DC,4,10.7301262,106.7379914,48
+Quận 8,Bãi đỗ xe Tạ Quang Bửu,11,11 Kw AC,2,10.7387872,106.6748317,4.4
+Quận 8,Bãi đỗ xe Tạ Quang Bửu,30,30 kW DC,2,10.7387872,106.6748317,12
+Quận Bình Thạnh,Bãi đỗ xe Xanh Tiên Phong,11,11 Kw AC,5,10.825006,106.7411559,11
+Quận Bình Thạnh,Bãi đỗ xe Xanh Tiên Phong,60,60 kW DC,10,10.825006,106.7411559,120
+Quận Bình Thạnh,Bãi đỗ xe Vinmec Central Park - Trong hầm,11,11 Kw AC,1,10.7939771,106.7203482,2.2
+Quận Bình Thạnh,Bãi đỗ xe Vinmec Central Park - Trong hầm,30,30 kW DC,1,10.7939771,106.7203482,6
+Quận Bình Thạnh,Vinhomes Landmark 81 - Hầm,11,11 Kw AC,2,10.7955236,106.7192025,4.4
+Quận Bình Thạnh,Vinhomes Landmark 81 - Hầm,30,30 kW DC,2,10.7955236,106.7192025,12
+Quận Bình Thạnh,Vinhomes Landmark 81 - Hầm,60,60 kW DC,2,10.7955236,106.7192025,24
+Quận Bình Thạnh,Vincom Center Landmark 81 - Sảnh chính,60,60 kW DC,12,10.7955236,106.7192025,144
+Quận Bình Thạnh,"Vinhomes Central Park, trong khu Villas",11,11 Kw AC,5,10.7955236,106.7192025,11
+Quận Bình Thạnh,Vinhomes Central Park 6,11,11 Kw AC,3,10.7931785,106.721702,6.6
+Quận Bình Thạnh,Vinhomes Central Park 5,11,11 Kw AC,3,10.7939051,106.7177428,6.6
+Quận Bình Thạnh,Bãi đỗ xe GSM Central Park - Tầng Hầm Khu Công viên,80,80 kW DC,20,10.7921907,106.7190411,320
+Quận Bình Thạnh,Bãi đỗ xe GSM Central Park - Tầng Hầm Khu Công viên,11,11 Kw AC,20,10.7921907,106.7190411,44
+Quận Bình Thạnh,Bãi đỗ xe GSM Central Park - Tầng Hầm Khu Công viên,60,60 kW DC,40,10.7921907,106.7190411,480
+Quận Bình Thạnh,Vinhomes Central Park 4,11,11 Kw AC,3,10.7952169,106.7221218,6.6
+Quận Bình Thạnh,Vinhomes Central Park 3,11,11 Kw AC,3,10.7930927,106.720196,6.6
+Quận Bình Thạnh,Vinhomes Central Park 1- Tân Cảng,11,11 Kw AC,3,10.7945757,106.7225821,6.6
+Quận Bình Thạnh,Vinhomes Central Park 1,11,11 Kw AC,3,10.7975741,106.719898,6.6
+Quận Bình Tân,Bãi đỗ xe tư nhân Anh Nguyện,60,60 kW DC,6,10.8103135,106.5889267,72
+Quận Bình Tân,Bãi đỗ xe Thuận Phát IV,11,11 Kw AC,3,10.8159767,106.5972767,6.6
+Quận Bình Tân,Bãi đỗ xe Thuận Phát IV,60,60 kW DC,2,10.8159767,106.5972767,24
+Quận Bình Tân,Cửa hàng xăng dầu Vĩ Phong,180,180 kW DC,2,10.8010491,106.5977577,72
+Quận Bình Tân,Cửa hàng xăng dầu Vĩ Phong,60,60 kW DC,4,10.8010491,106.5977577,48
+Quận Bình Tân,Bãi đỗ xe Gia Bảo,11,11 Kw AC,2,10.8016125,106.5845739,4.4
+Quận Bình Tân,Bãi đỗ xe Gia Bảo,60,60 kW DC,2,10.8016125,106.5845739,24
+Quận Bình Tân,Bãi đỗ xe tư nhân Cường Thảo,11,11 Kw AC,3,10.8031712,106.5925684,6.6
+Quận Bình Tân,Bãi đỗ xe tư nhân Cường Thảo,60,60 kW DC,4,10.8031712,106.5925684,48
+Quận Bình Tân,Bãi đỗ xe tư nhân 40/17 Đường Số 7,11,11 Kw AC,2,10.8031772,106.601651,4.4
+Quận Bình Tân,Bãi đỗ xe tư nhân 40/17 Đường Số 7,60,60 kW DC,4,10.8031772,106.601651,48
+Quận Bình Tân,Bãi đỗ xe Thuận Phát III,60,60 kW DC,4,10.8094506,106.6036702,48
+Quận Bình Tân,Bãi đỗ xe Gia Huy,11,11 Kw AC,3,10.772139,106.586468,6.6
+Quận Bình Tân,Bãi đỗ xe Gia Huy,60,60 kW DC,2,10.772139,106.586468,24
+Quận Bình Tân,Cửa hàng xăng dầu Tuyết Anh,60,60 kW DC,2,10.7700858,106.600246,24
+Quận Bình Tân,Bãi đỗ xe Thiên Ân,11,11 Kw AC,4,10.7512436,106.5768882,8.8
+Quận Bình Tân,Bãi đỗ xe Thiên Ân,60,60 kW DC,6,10.7512436,106.5768882,72
+Quận Bình Tân,Bãi đỗ xe Chú Hùng,11,11 Kw AC,5,10.7360575,106.5906249,11
+Quận Bình Tân,Bãi đỗ xe Chú Hùng,60,60 kW DC,2,10.7360575,106.5906249,24
+Quận Bình Tân,Bãi đỗ xe tư nhân ISTC 01,11,11 Kw AC,6,10.7429523,106.5785276,13.2
+Quận Bình Tân,Bãi đỗ xe tư nhân ISTC 01,60,60 kW DC,14,10.7429523,106.5785276,168
+Quận Bình Tân,Chung cư Thái Sơn Nhất Lan 3,11,11 Kw AC,3,10.753438,106.591859,6.6
+Quận Bình Tân,Bãi đỗ xe tư nhân Minh Quân,11,11 Kw AC,4,10.7556761,106.6058922,8.8
+Quận Bình Tân,Bãi đỗ xe tư nhân Minh Quân,60,60 kW DC,4,10.7556761,106.6058922,48
+Quận Bình Tân,Cửa hàng xăng dầu Mỹ Anh,60,60 kW DC,4,10.725965,106.6086594,48
+Quận Bình Tân,Đại lý Ô tô VinFast An Thái,30,30 kW DC,3,10.7399584,106.6162993,18
+Quận Bình Tân,Bãi đỗ xe tư nhân 68,11,11 Kw AC,2,10.7922526,106.6061555,4.4
+Quận Bình Tân,Bãi đỗ xe tư nhân 68,80,80 kW DC,8,10.7922526,106.6061555,128
+Quận Bình Tân,Bãi đỗ xe 192 Đường Số 6,11,11 Kw AC,4,10.7934814,106.585076,8.8
+Quận Bình Tân,Bãi đỗ xe 192 Đường Số 6,60,60 kW DC,4,10.7934814,106.585076,48
+Quận Bình Tân,Bãi đỗ xe tư nhân Hương Lộ 2,11,11 Kw AC,1,10.7636753,106.6099418,2.2
+Quận Bình Tân,Bãi đỗ xe tư nhân Hương Lộ 2,60,60 kW DC,4,10.7636753,106.6099418,48
+Quận Gò Vấp,Bãi đỗ xe Gara Tyrex,11,11 Kw AC,2,10.8395243,106.6375912,4.4
+Quận Gò Vấp,Bãi đỗ xe Gara Tyrex,60,60 kW DC,4,10.8395243,106.6375912,48
+Quận Gò Vấp,Bãi đỗ xe 164 Bùi Quang Là,11,11 Kw AC,2,10.8339439,106.6425202,4.4
+Quận Gò Vấp,Bãi đỗ xe 164 Bùi Quang Là,60,60 kW DC,2,10.8339439,106.6425202,24
+Quận Gò Vấp,Bãi Xe 631/45 Lê Đức Thọ,11,11 Kw AC,6,10.8476188,106.6683927,13.2
+Quận Gò Vấp,Bãi Xe 631/45 Lê Đức Thọ,60,60 kW DC,12,10.8476188,106.6683927,144
+Quận Gò Vấp,Chung cư Z751 Hà Đô,11,11 Kw AC,1,10.8346439,106.6677707,2.2
+Quận Gò Vấp,Chung cư Z751 Hà Đô,30,30 kW DC,1,10.8346439,106.6677707,6
+Quận Gò Vấp,"Vincom Plaza Quang Trung, bãi xe ngoài trời",60,60 kW DC,12,10.8292201,106.6727094,144
+Quận Gò Vấp,Vincom Plaza Quang Trung - Hầm B3,11,11 Kw AC,1,10.8292201,106.6727094,2.2
+Quận Gò Vấp,Vincom Plaza Quang Trung - Hầm B3,30,30 kW DC,2,10.8292201,106.6727094,12
+Quận Gò Vấp,Vincom Plaza Quang Trung - Bên trái TTTM,250,250 kW DC,1,10.8280942,106.6744381,50
+Quận Gò Vấp,Vincom Plaza Quang Trung - Bên trái TTTM,180,180 kW DC,2,10.8280942,106.6744381,72
+Quận Gò Vấp,Trung tâm Hội nghị The Adora,60,60 kW DC,4,10.8182176,106.6787562,48
+Quận Gò Vấp,Vincom Plaza Phan Văn Trị,60,60 kW DC,4,10.8271138,106.6892817,48
+Quận Gò Vấp,Vincom Plaza Phan Văn Trị - Hầm B1,11,11 Kw AC,1,10.8270849,106.6892387,2.2
+Quận Phú Nhuận,Trung tâm Hội nghị Adora Luxury,60,60 kW DC,4,10.7996581,106.6722041,48
+Quận Tân Bình,Bãi đỗ xe Thiên Hải Auto,11,11 Kw AC,2,10.8263021,106.6344017,4.4
+Quận Tân Bình,Bãi đỗ xe Thiên Hải Auto,30,30 kW DC,2,10.8263021,106.6344017,12
+Quận Tân Bình,Vinfast Đông Sài Gòn 2,60,60 kW DC,4,10.8009921,106.6605941,48
+Quận Tân Bình,Chung cư Republic Plaza,11,11 Kw AC,3,10.8016452,106.6546926,6.6
+Quận Tân Bình,Vincom Plaza Cộng Hòa,250,250 kW DC,1,10.8009042,106.6582271,50
+Quận Tân Bình,Vincom Plaza Cộng Hòa,60,60 kW DC,28,10.8009042,106.6582271,336
+Quận Tân Bình,Trung tâm Hội nghị The Adora Center,60,60 kW DC,4,10.7981168,106.6594343,48
+Quận Tân Phú,Bãi đỗ xe Auto Tuấn Phong,11,11 Kw AC,2,10.803894,106.6226585,4.4
+Quận Tân Phú,Bãi đỗ xe Auto Tuấn Phong,60,60 kW DC,2,10.803894,106.6226585,24
+Quận Tân Phú,Bãi đỗ xe 24G,11,11 Kw AC,2,10.761745,106.6294736,4.4
+Quận Tân Phú,Bãi đỗ xe 24G,60,60 kW DC,2,10.761745,106.6294736,24
+Quận Tân Phú,Trung tâm Hội nghị Le DONG PHUONG 3,180,180 kW DC,2,10.7626906,106.6322212,72
+Quận Tân Phú,Bãi đỗ xe Vận Tải Hòa Bình,11,11 Kw AC,4,10.7687667,106.6332025,8.8
+Quận Tân Phú,Bãi đỗ xe Vận Tải Hòa Bình,60,60 kW DC,6,10.7687667,106.6332025,72
+Quận Tân Phú,Chung cư Rubyland,11,11 Kw AC,1,10.7638697,106.6341595,2.2
+Quận Tân Phú,Chung cư Rubyland,30,30 kW DC,1,10.7638697,106.6341595,6
+TP Thủ Đức,Bãi đỗ xe Sao Vàng,11,11 Kw AC,4,10.8525778,106.7249713,8.8
+TP Thủ Đức,Bãi đỗ xe Sao Vàng,60,60 kW DC,6,10.8525778,106.7249713,72
+TP Thủ Đức,Bãi đỗ xe Linh Đông,60,60 kW DC,4,10.8522021,106.7484627,48
+TP Thủ Đức,Bãi đỗ xe Khu dân cư ARECO,60,60 kW DC,2,10.8647449,106.7602662,24
+TP Thủ Đức,Bãi đỗ xe Anh Sơn,11,11 Kw AC,6,10.8495126,106.7631117,13.2
+TP Thủ Đức,Bãi đỗ xe Anh Sơn,60,60 kW DC,4,10.8495126,106.7631117,48
+TP Thủ Đức,Bãi đỗ xe Eco City - Trường Thọ,60,60 kW DC,4,10.8304775,106.7596384,48
+TP Thủ Đức,"Vincom Plaza Thủ Đức, hầm B1",60,60 kW DC,2,10.8499705,106.7652083,24
+TP Thủ Đức,Cửa hàng xăng dầu PVOIL Bình Thọ,60,60 kW DC,4,10.8325165,106.7636699,48
+TP Thủ Đức,Bãi đỗ xe 26C Phan Chu Trinh,11,11 Kw AC,2,10.8405679,106.7734234,4.4
+TP Thủ Đức,"Vincom Plaza Lê Văn Việt, phía sau TTTM",60,60 kW DC,6,10.8449727,106.7786146,72
+TP Thủ Đức,Vincom Plaza Lê Văn Việt - Trong hầm,11,11 Kw AC,2,10.8449727,106.7786146,4.4
+TP Thủ Đức,Vincom Plaza Lê Văn Việt - Trong hầm,30,30 kW DC,2,10.8449727,106.7786146,12
+TP Thủ Đức,Vincom Plaza Lê Văn Việt-Trước sảnh TTTM,60,60 kW DC,12,10.8449727,106.7786146,144
+TP Thủ Đức,Bãi đỗ xe Anh Quốc,11,11 Kw AC,2,10.8353597,106.7805836,4.4
+TP Thủ Đức,Bãi đỗ xe Anh Quốc,60,60 kW DC,2,10.8353597,106.7805836,24
+TP Thủ Đức,Bãi đỗ xe Gara Minh Phương,11,11 Kw AC,1,10.7883749,106.7291998,2.2
+TP Thủ Đức,Bãi đỗ xe Gara Minh Phương,30,30 kW DC,1,10.7883749,106.7291998,6
+TP Thủ Đức,Xưởng dịch vụ VinFast Thảo Điền,30,30 kW DC,1,10.8023917,106.7392697,6
+TP Thủ Đức,Chung cư Centana,60,60 kW DC,6,10.7907776,106.7521126,72
+TP Thủ Đức,Bãi đỗ xe Nguyễn Văn Út,11,11 Kw AC,2,10.775602,106.7695568,4.4
+TP Thủ Đức,Bãi đỗ xe Nguyễn Văn Út,60,60 kW DC,2,10.775602,106.7695568,24
+TP Thủ Đức,Gara Linh Vy Auto,11,11 Kw AC,2,10.8148763,106.776653,4.4
+TP Thủ Đức,Gara Linh Vy Auto,60,60 kW DC,2,10.8148763,106.776653,24
+TP Thủ Đức,Cafe Sông Trăng,60,60 kW DC,4,10.7923157,106.7819993,48
+TP Thủ Đức,Bãi đỗ xe Eco City – Bình Trưng Đông,11,11 Kw AC,2,10.8367594,106.7916899,4.4
+TP Thủ Đức,Bãi đỗ xe Eco City – Bình Trưng Đông,60,60 kW DC,6,10.8367594,106.7916899,72
+TP Thủ Đức,Bãi đỗ xe công ty AZC 3,11,11 Kw AC,10,10.7862123,106.7917807,22
+TP Thủ Đức,Bãi đỗ xe công ty AZC 3,60,60 kW DC,10,10.7862123,106.7917807,120
+TP Thủ Đức,Bãi đỗ xe 882,11,11 Kw AC,2,10.8071879,106.8037678,4.4
+TP Thủ Đức,Bãi đỗ xe 882,60,60 kW DC,4,10.8071879,106.8037678,48
+TP Thủ Đức,Bãi đỗ xe Phú Hữu,11,11 Kw AC,4,10.7890603,106.8001396,8.8
+TP Thủ Đức,Bãi đỗ xe Phú Hữu,60,60 kW DC,6,10.7890603,106.8001396,72
+TP Thủ Đức,"Chung cư Sky 9, CT1",11,11 Kw AC,2,10.8042169,106.7907303,4.4
+TP Thủ Đức,"Chung cư Sky 9, hầm B1- CT3",11,11 Kw AC,3,10.8042169,106.7907303,6.6
+TP Thủ Đức,"Cửa hàng xăng dầu PVOIL Phú Hữu, Thủ Đức",180,180 kW DC,2,10.8029159,106.7918902,72
+TP Thủ Đức,"Cửa hàng xăng dầu PVOIL Phú Hữu, Thủ Đức",60,60 kW DC,2,10.8029159,106.7918902,24
+TP Thủ Đức,Chung cư The Eastern,11,11 Kw AC,2,10.8053134,106.7970939,4.4
+TP Thủ Đức,Chung cư The Eastern,30,30 kW DC,2,10.8053134,106.7970939,12
+TP Thủ Đức,Cửa hàng xăng dầu PVOIL TI Long Trường,180,180 kW DC,2,10.7986358,106.8237374,72
+TP Thủ Đức,Bãi đỗ xe 9/1 Võ Văn Hát,11,11 Kw AC,2,10.8232468,106.807749,4.4
+TP Thủ Đức,Bãi đỗ xe 9/1 Võ Văn Hát,60,60 kW DC,2,10.8232468,106.807749,24
+TP Thủ Đức,Cửa hàng xăng dầu Số 1 Lò Lu,60,60 kW DC,4,10.8246709,106.8108497,48
+TP Thủ Đức,Bãi đỗ xe tư nhân Đông Thăng Long,60,60 kW DC,4,10.8117526,106.8325872,48
+TP Thủ Đức,Cửa hàng xăng dầu Long Trường,60,60 kW DC,4,10.806135,106.8168535,48
+TP Thủ Đức,Bãi đỗ xe tư nhân Long Trường,11,11 Kw AC,5,10.8048208,106.8198504,11
+TP Thủ Đức,Bãi đỗ xe tư nhân Long Trường,60,60 kW DC,4,10.8048208,106.8198504,48
+TP Thủ Đức,Bãi đỗ xe tư nhân Tam Đa,11,11 Kw AC,4,10.8074947,106.8282272,8.8
+TP Thủ Đức,Bãi đỗ xe tư nhân Tam Đa,60,60 kW DC,4,10.8074947,106.8282272,48
+TP Thủ Đức,Bãi đỗ xe GSM - Vinbus Depot Thủ Đức,180,180 Kw DC,4,10.7986358,106.8237374,144
+TP Thủ Đức,Bãi đỗ xe GSM - Vinbus Depot Thủ Đức,60,60 kW DC,26,10.7986358,106.8237374,312
+TP Thủ Đức,Bệnh viện Đa khoa Quốc tế Hoàn Mỹ Thủ Đức,60,60 kW DC,4,10.8752458,106.7659731,48
+TP Thủ Đức,Bãi đỗ xe Trạm xe dịch vụ Bệnh viện Ung Bướu,11,11 Kw AC,9,10.8693026,106.8136019,19.8
+TP Thủ Đức,Bãi đỗ xe Trạm xe dịch vụ Bệnh viện Ung Bướu,60,60 kW DC,16,10.8693026,106.8136019,192
+TP Thủ Đức,Khách Sạn Little Sài Gòn - Thủ Đức,11,11 Kw AC,2,10.8754469,106.8185063,4.4
+TP Thủ Đức,Bãi đỗ xe Nguyễn Xiển,11,11 Kw AC,4,10.8572703,106.8342165,8.8
+TP Thủ Đức,Bãi đỗ xe Nguyễn Xiển,60,60 kW DC,6,10.8572703,106.8342165,72
+TP Thủ Đức,"Chung cư Vinhomes và Grand Park 1, Tòa S2",11,11 Kw AC,3,10.8395316,106.8343647,6.6
+TP Thủ Đức,"Chung cư Vinhomes Grand Park,Tòa S1",11,11 Kw AC,3,10.8395316,106.8343647,6.6
+TP Thủ Đức,"Vinhomes Grand Park, khu 7",60,60 kW DC,14,10.8339519,106.8299143,168
+TP Thủ Đức,"Chung cư Vinhomes Grand Park 4, Tòa S5",11,11 Kw AC,3,10.8403618,106.8368782,6.6
+TP Thủ Đức,"Chung cư Vinhomes Grand Park 3 ,Tòa S3",11,11 Kw AC,3,10.8395316,106.8343647,6.6
+TP Thủ Đức,Trạm sạc VinFast Bãi đỗ xe GSM - Grand Park,180,180 Kw DC,6,10.8421949,106.8237374,216
+TP Thủ Đức,Trạm sạc VinFast Bãi đỗ xe GSM - Grand Park,60,60 kW DC,48,10.8421949,106.8237374,576
+TP Thủ Đức,Vinhomes Grand Park - Thương mại dịch vụ Broadway,60,60 kW DC,12,10.8377263,106.8379799,144
+TP Thủ Đức,"Vinhomes Grand Park, khu 10",11,11 Kw AC,4,10.8339519,106.8299143,8.8
+TP Thủ Đức,"Vinhomes Grand Park, khu 10",60,60 kW DC,54,10.8339519,106.8299143,648
+TP Thủ Đức,"Vinhomes Grand Park, khu 12",60,60 kW DC,12,10.8339519,106.8299143,144
+TP Thủ Đức,"Vinhomes Grand Park, khu 4,Tòa S7.02",11,11 Kw AC,8,10.8339519,106.8299143,17.6
+TP Thủ Đức,"Vinhomes Grand Park, khu 5 ,Tòa S8",11,11 Kw AC,3,10.8339519,106.8299143,6.6
+TP Thủ Đức,"Vinhomes Grand Park, khu 6, Tòa S9",11,11 Kw AC,6,10.8339519,106.8299143,13.2
+TP Thủ Đức,"Vinhomes Grand Park, khu 3, Tòa S6",11,11 Kw AC,9,10.8339519,106.8299143,19.8
+TP Thủ Đức,"Vinhomes Grand Park, khu 2,Tòa S10.07",11,11 Kw AC,3,10.8339519,106.8299143,6.6
+TP Thủ Đức,"Vinhomes Grand Park, khu 11",60,60 kW DC,8,10.8339519,106.8299143,96
+TP Thủ Đức,Vinhomes Grand Park - Bãi đỗ xe sân tập Golf,60,60 kW DC,8,10.8395316,106.8343647,96
+TP Thủ Đức,Vincom Mega Mall Grand Park - Khu 1,11,11 Kw AC,114,10.8909381,106.8283134,250.8
+TP Thủ Đức,Vincom Mega Mall Grand Park - Khu 1,250,250 kW DC,1,10.8909381,106.8283134,50
+TP Thủ Đức,Vincom Mega Mall Grand Park - Khu 1,60,60 kW DC,52,10.8909381,106.8283134,624
+TP Thủ Đức,Vincom Mega Mall Grand Park - Khu 1,150,150 kW DC,10,10.8909381,106.8283134,300
+TP Thủ Đức,"Vinhomes Grand Park, khu 1, Tòa S10.05",11,11 Kw AC,3,10.8339519,106.8299143,6.6
+TP Thủ Đức,Vinhomes Grand Park PK3 Hầm B2-Tòa BS12-PK3,11,11 Kw AC,86,10.8909381,106.8283134,189.2
+TP Thủ Đức,Bãi đỗ xe tư nhân A74,60,60 kW DC,6,10.858685,106.7866361,72
+TP Thủ Đức,Bãi đỗ xe tư nhân A74,11,11 Kw AC,4,10.858685,106.7866361,8.8
+TP Thủ Đức,Bãi đỗ xe Co-op Xtra Linh Trung,60,60 kW DC,4,10.8683347,106.7766202,48
+TP Thủ Đức,Bãi đỗ xe Linh Xuân - Thủ Đức,11,11 Kw AC,3,10.8764645,106.7771255,6.6
+TP Thủ Đức,Bãi đỗ xe Linh Xuân - Thủ Đức,80,80 kW DC,6,10.8764645,106.7771255,96
+TP Thủ Đức,"Vincom Mega Mall Thảo Điền, hầm B2",30,30 kW DC,12,10.8023796,106.7409716,72
+TP Thủ Đức,"Vincom Mega Mall Thảo Điền, hầm B2",60,60 kW DC,26,10.8023796,106.7409716,312
+TP Thủ Đức,"Vincom Mega Mall Thảo Điền, bên trái TTTM",60,60 kW DC,14,10.8023796,106.7409716,168
+TP Thủ Đức,Bãi đỗ xe tư nhân Cô Năm,11,11 Kw AC,2,10.8308918,106.7196577,4.4
+TP Thủ Đức,Bãi đỗ xe tư nhân Cô Năm,80,80 kW DC,2,10.8308918,106.7196577,32
+TP Thủ Đức,Bãi đỗ xe Khu dân cư Đại Học Bách Khoa,11,11 Kw AC,3,10.7949297,106.7875715,6.6
+TP Thủ Đức,Bãi đỗ xe Khu dân cư Đại Học Bách Khoa,80,80 kW DC,12,10.7949297,106.7875715,192
+TP Thủ Đức,Bãi đỗ xe tư nhân D3B,11,11 Kw AC,4,10.8086277,106.7830843,8.8
+TP Thủ Đức,Bãi đỗ xe tư nhân D3B,80,80 kW DC,8,10.8086277,106.7830843,128
+TP Thủ Đức,Bãi đỗ xe tư nhân 322 Long Thuận,11,11 Kw AC,5,10.8116789,106.858301,11
+TP Thủ Đức,Bãi đỗ xe tư nhân 322 Long Thuận,80,80 kW DC,12,10.8116789,106.858301,192

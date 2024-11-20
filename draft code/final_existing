@@ -1,0 +1,67 @@
+import pandas as pd
+import folium
+from folium.plugins import MarkerCluster
+
+# Load the CSV file into a DataFrame
+file_path = 'EXISTING.csv'  # Replace with the actual path to your CSV file
+data = pd.read_csv(file_path)
+
+# Display the first few rows of the dataset to check the structure and verify the content
+print(data.head())
+
+# Group by the x and y coordinates to combine rows that share the same coordinates
+grouped_data = data.groupby(['x coordinate', 'y coordinate'])
+
+# Initialize a map centered at a general location (e.g., Ho Chi Minh City)
+m = folium.Map(location=[10.8231, 106.6297], zoom_start=13)
+
+# Initialize a MarkerCluster to cluster markers that are close to each other
+marker_cluster = MarkerCluster().add_to(m)
+
+# Iterate through the grouped DataFrame and add markers for each unique coordinate pair
+for (x_coordinate, y_coordinate), group in grouped_data:
+    # Display the unit once (assume all rows for the same coordinate share the same Unit)
+    unit = group['Unit'].iloc[0]
+    name = group['Name'].iloc[0]
+    popup_content = f"Name: {name}<br>Unit: {unit}<br><br>"
+
+    # Add each Type and Value from the grouped rows
+    for idx, row in group.iterrows():
+        value_type = row['Type']
+        value = row['Value']
+        popup_content += f"Type: {value_type}<br>Value: {value}<br>"
+
+    # Add coordinates to the popup content
+    popup_content += f"<br>X Coordinate: {x_coordinate}<br>Y Coordinate: {y_coordinate}"
+    
+    # Create a folium popup with the combined information
+    popup = folium.Popup(popup_content, max_width=300)
+    
+    # Add a marker with a custom charging station icon and add the marker to the cluster
+    marker = folium.Marker(
+        location=[x_coordinate, y_coordinate],
+        popup=popup,
+        icon=folium.Icon(color="blue", icon="bolt", prefix="fa")
+    ).add_to(marker_cluster)
+
+    # Use a JavaScript function to make the marker bounce up and down
+    # Every marker will have its own unique ID in JavaScript
+    marker_id = f"marker_{x_coordinate}_{y_coordinate}"
+    marker.get_root().html.add_child(folium.Element(f'''
+        <script>
+            var {marker_id} = L.marker([{x_coordinate}, {y_coordinate}], {{
+                icon: L.AwesomeMarkers.icon({{
+                    icon: 'bolt', markerColor: 'blue', prefix: 'fa'
+                }}),
+                bounceOnAdd: true,
+                bounceOnAddOptions: {{duration: 500, height: 100}},
+                bounceOnAddCallback: function() {{console.log("done");}}
+            }}).addTo({m.get_name()});
+        </script>
+    '''))
+
+# Save the map to an HTML file
+output_map = 'output_map_existing.html'
+m.save(output_map)
+
+print(f"Map has been saved to {output_map}")
