@@ -35,14 +35,14 @@ x = np.arange(len(units))
 width = 0.35  # width of the bars
 
 fig, ax = plt.subplots(figsize=(15, 8))
-bars1 = ax.bar(x - width/2, type2_chargers, width, label='Type 2 Chargers', color='skyblue')
-bars2 = ax.bar(x + width/2, type3_chargers, width, label='Type 3 Chargers', color='salmon')
+bars1 = ax.bar(x - width/2, type2_chargers, width, label='Level 2 Charging Stations', color='skyblue')
+bars2 = ax.bar(x + width/2, type3_chargers, width, label='Level 3 Charging Stations', color='salmon')
 
 # Add line for average chargers per point
-ax.plot(x, average_chargers_per_point, color='green', marker='o', linestyle='--', linewidth=2, label='Average Chargers per Point')
+ax.plot(x, average_chargers_per_point, color='green', marker='o', linestyle='--', linewidth=2, label='Average CSs per Point')
 
 # Add labels, title, and custom x-axis tick labels
-ax.set_ylabel('Number of Chargers')
+ax.set_ylabel('Number of Charging Stations')
 ax.set_xticks(x)
 ax.set_xticklabels(units, rotation=90, ha='center')  # Rotate labels 90 degrees
 
