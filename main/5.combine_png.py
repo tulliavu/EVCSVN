@@ -3,13 +3,13 @@ import numpy as np
 
 # Configure matplotlib to use LaTeX-compatible font sizes
 plt.rcParams.update({
-    'font.size': 16,               # Set default font size, equivalent to LaTeX 12pt
-    'axes.titlesize': 18,          # Title font size
-    'axes.labelsize': 20,          # x and y label font size
-    'xtick.labelsize': 20,         # x tick labels
-    'ytick.labelsize': 20,         # y tick labels
-    'legend.fontsize': 16,         # Legend font size
-    'figure.titlesize': 18         # Overall figure title font size (if used)
+    'font.size': 24,               # Set default font size, equivalent to LaTeX 12pt
+    'axes.titlesize': 24,          # Title font size
+    'axes.labelsize': 26,          # x and y label font size
+    'xtick.labelsize': 26,         # x tick labels
+    'ytick.labelsize': 26,         # y tick labels
+    'legend.fontsize': 24,         # Legend font size
+    'figure.titlesize': 24         # Overall figure title font size (if used)
 })
 
 # Data
@@ -42,10 +42,11 @@ bars2 = ax.bar(x + width/2, type3_chargers, width, label='Type 3 Chargers', colo
 ax.plot(x, average_chargers_per_point, color='green', marker='o', linestyle='--', linewidth=2, label='Average Chargers per Point')
 
 # Add labels, title, and custom x-axis tick labels
-# ax.set_xlabel('Administrative Units')
 ax.set_ylabel('Number of Chargers')
 ax.set_xticks(x)
-ax.set_xticklabels(units, rotation=45, ha='right')
+ax.set_xticklabels(units, rotation=90, ha='center')  # Rotate labels 90 degrees
+
+# Add legend
 ax.legend()
 
 # Save as PNG
