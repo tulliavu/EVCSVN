@@ -58,9 +58,9 @@ choropleth = folium.Choropleth(
     data=df,
     columns=["Administrative Unit", "Population"],
     key_on="feature.properties.name:en",  # Ensure correct key is used
-    fill_color="YlOrRd",
-    fill_opacity=0.7,
-    line_opacity=0.2,
+    fill_color="YlGnBu",
+    fill_opacity=1,
+    line_opacity=2,
     legend_name="Population by Administrative Unit"
 ).add_to(hcm_map)
 

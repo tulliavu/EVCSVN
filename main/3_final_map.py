@@ -72,16 +72,11 @@ for (lat, lon), group in new_station_groups:
     unit = group['Unit'].iloc[0]  # Assume all stations in the same location belong to the same unit
     
     # Collect all Type and Value information for stations at this location
-    station_types = group['Type'].tolist()
-    values = group['Value'].tolist()
     
     # Create the popup content with Unit, and list all Type and Value pairs for the same location
     popup_content = f"Unit: {unit}<br>X Coordinate: {lat}<br>Y Coordinate: {lon}<br><br>"
     
-    # Append each Type and Value entry
-    for i in range(len(station_types)):
-        popup_content += f"Type: {station_types[i]}<br>Value: {values[i]}<br><br>"
-    
+
     # Add the CircleMarker to the new_stations_layer
     folium.CircleMarker(
         location=[lat, lon],
@@ -226,7 +221,7 @@ legend_html = '''
 m.get_root().html.add_child(folium.Element(legend_html))
 
 # Save the map to an HTML file
-output_map = 'output_map.html'
+output_map = 'output_input_map.html'
 m.save(output_map)
 
 print(f"Map has been saved to {output_map}")
